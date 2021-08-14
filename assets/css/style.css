@@ -13,3 +13,12 @@ body{
     font-weight: 300;
     color: #3a3a3a;
 }
+
+h1,h2,h3{
+font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size: 3rem;
+    margin: 0;
+}
