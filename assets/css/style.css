@@ -55,11 +55,10 @@ h1{
 
 /* hero image and cover text */
 
-#demo- {
+#demo {
     height: 600px;
     width: 100%;
     overflow: hidden;
-
     position: relative;
 }
 
