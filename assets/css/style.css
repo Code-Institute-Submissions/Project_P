@@ -71,3 +71,23 @@ h1{
     width: 100%;
     background: url('../image/hyrcan-cover-2.gif') no-repeat center center;
 }
+
+#demo-cover-text{
+    font-size: 120%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(133, 240, 61, 0.39);
+
+    bottom: 40px;
+    right: 150px;
+
+    position: absolute;
+}
