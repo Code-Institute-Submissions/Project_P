@@ -102,6 +102,8 @@ h1{
     position: absolute;
 }
 
+/* Features */
+
 #titr-featurs{
     text-align: center;
     font-size: 3em;
@@ -109,19 +111,30 @@ h1{
 
 }
 
-/* club ethos */
 
 #featurs{
     height: 600px;
 }
 .featur-explained{
     width: 33%;
+    padding-top: 30px;
     margin: 0 auto;
+    float: right;
 
  }
 
-.cover-image-right{
-    background:url('../image/feature-fall.jpg');
+#featur-circle-right{
+
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+  
+
+
+ }
+
+#cover-image-right{
+    background:url('../image/feature-fall-2.jpg')no-repeat center center;
     border-radius: 50%;
     height: 100%;
 }
