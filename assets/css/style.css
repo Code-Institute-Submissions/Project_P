@@ -44,7 +44,7 @@ h1{
 }
 
 #menu li {
-    float: right;
+    float: left;
     list-style-type: none;
     margin-right: 30px;
     
@@ -109,7 +109,19 @@ h1{
 
 }
 
-#featurs{
-    height: 500px;
+/* club ethos */
 
+#featurs{
+    height: 600px;
+}
+.featur-explained{
+    width: 33%;
+    margin: 0 auto;
+
+ }
+
+.cover-image-right{
+    background:url('../image/feature-fall.jpg');
+    border-radius: 50%;
+    height: 100%;
 }
