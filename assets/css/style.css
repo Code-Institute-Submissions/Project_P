@@ -15,9 +15,9 @@ body{
   background-color:  whitesmoke;
 }
 
-header{
+/* header{
     background-color: black;
-}
+} */
 h1,h2,h3{
 font-family: 'Times New Roman', Times, serif;
 }
@@ -38,13 +38,15 @@ h1{
 #menu, #logo {
     line-height: 75px;
 }
-
-#black-background{
-    background-color: black;
+#logo{
+    float: left;
+    margin-left: 30px;
+    font-size: 280%;
 }
 
+
 #menu li {
-    float: left;
+    float: right;
     list-style-type: none;
     margin-right: 30px;
     
@@ -116,13 +118,14 @@ h1{
     height: 1200px;
 }
 .featur-explained{
-    width: 1003%;
+    width: 100%;
     padding-top: 30px;
     margin: 0 auto;
     /*float: right;*/
     /* justify-content: center ; */
     display: flex;
     align-items: center;
+    justify-content: center;
 
  }
 
@@ -133,6 +136,11 @@ h1{
     padding: 20px;
     /* flex-basis: 100px; */
 
+ }
+#featur-circle > p{
+     font-size: 130%;
+     font-weight: 200;
+     text-align: center;
  }
 
 #cover-image-right{
