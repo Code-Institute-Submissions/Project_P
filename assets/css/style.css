@@ -69,6 +69,7 @@ h1{
 #demo {
     height: 600px;
     width: 100%;
+
     overflow: hidden;
     position: relative;
 }
@@ -84,7 +85,7 @@ h1{
 }
 
 #demo-cover-text{
-    font-size: 120%;
+    font-size: 130%;
     font-family:Georgia, 'Times New Roman', Times, serif;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -98,7 +99,7 @@ h1{
 
     background-color: rgba(24, 24, 24, 0.418);
 
-    bottom: 40px;
+    bottom: 30px;
     right: 150px;
 
     position: absolute;
@@ -115,7 +116,7 @@ h1{
 
 
 #featurs{
-    height: 1200px;
+    height: 600px;
 }
 .featur-explained{
     width: 100%;
@@ -123,18 +124,23 @@ h1{
     margin: 0 auto;
     /*float: right;*/
     /* justify-content: center ; */
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    /* display: flex; */
+    /* align-items: center;
+    justify-content: center; */
 
+    
+    
+    text-align: center;
  }
 
-#featur-circle{
+.featur-circle{
 
     width: 300px;
     height: 300px;
     padding: 20px;
     /* flex-basis: 100px; */
+    overflow: hidden;
+display: inline-block;
 
  }
 #featur-circle > p{
@@ -166,3 +172,14 @@ h1{
     display: inline-block;
 } */
 
+
+/*   section 2 */ 
+#explanation{
+    /* width:100%;
+    height: 300px; */
+    padding: 1 rem 0;
+    margin-bottom: 80px;
+    height: 300px;
+    background:url('../image/hyrcania-on-the-fire.jpg') no-repeat center fixed;
+
+}
