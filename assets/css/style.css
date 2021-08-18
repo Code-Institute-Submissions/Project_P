@@ -12,7 +12,7 @@ body{
     font-family: lato,sans-serif;
     font-weight: 300;
     color: #3a3a3a;
-  background-color:  whitesmoke;
+   background-color:  whitesmoke;
 }
 
 /* header{
@@ -92,9 +92,9 @@ h1{
 }
 
 #demo-image {
-    height: 600px;
+    height: 100%;
     width: 100%;
-    background: url('../image/hyrcan-cover-2.gif') no-repeat center center;
+    background: url('../image/hyrcan-cover-2.jpg') no-repeat center center;
 }
 
 #demo-cover-text{
