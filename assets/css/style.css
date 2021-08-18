@@ -31,9 +31,22 @@ h1{
     font-size: 110%;
     letter-spacing: 4px;
    /* display: block;*/
-  
-    
 }
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
 
 #menu, #logo {
     line-height: 75px;
@@ -127,9 +140,6 @@ h1{
     /* display: flex; */
     /* align-items: center;
     justify-content: center; */
-
-    
-    
     text-align: center;
  }
 
@@ -177,16 +187,17 @@ display: inline-block;
 #explanation{
     width:100%;
     
-    padding: 1 rem 0;
+    /* padding: 1 rem 0; */
     margin-bottom: 100px;
     height: 400px;
     background:url('../image/hyrc-fire.jpg') no-repeat center fixed;
 }
 .explanation-text{
-    padding: top 20px;;
+    padding-top:  50px;;
     
     text-align: center;
     color: white;
     font-size: 150%;
     margin: 30%;
 }
+
