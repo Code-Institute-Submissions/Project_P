@@ -18,7 +18,7 @@ body{
 /* header{
     background-color: black;
 } */
-h1,h2,h3{
+h1{
 font-family: 'Times New Roman', Times, serif;
 }
 
@@ -26,7 +26,7 @@ h1{
     font-size: 3rem;
     margin: 0;
 }
-h3{
+.featur-circle h3{
     margin-top:  20px;
 
 }
@@ -203,7 +203,7 @@ h3{
 #explanation{
     width:100%;  
     /* padding: 1 rem 0; */
-    margin-bottom: 100px;
+    margin-bottom: 10px;
     height: 400px;
     background:url('../image/hyrc-fire.jpg') no-repeat center fixed;
 }
@@ -229,12 +229,20 @@ border: none;
 }
 
 
-.motto { 
-    height: 400px;
+#motto { 
+    height: 350px;
     width: 100%;
-    /* padding: 40px;
+  
+
     overflow: hidden;
-    position: relative; */
+    position: relative;
+}
+#motto>h2
+{
+    text-align: center;
+    /* padding-left: 100px;
+    padding-right: 100px; */
+    padding: 100px 100px 20px 100px;
 }
 
 /*sign up page */ 
