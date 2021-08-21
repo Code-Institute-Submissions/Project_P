@@ -229,11 +229,17 @@ border: none;
 }
 
 
-
+.motto { 
+    height: 400px;
+    width: 100%;
+    /* padding: 40px;
+    overflow: hidden;
+    position: relative; */
+}
 
 /*sign up page */ 
 
-/* padding to allow for fixed footer */
+/*/////////////////////////////// padding to allow for fixed footer /////////////////////////////////////////////////////////*/
 #contact {
     margin-bottom: 50px;
 }
