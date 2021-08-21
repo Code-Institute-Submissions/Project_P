@@ -80,7 +80,7 @@ h1{
 /* hero image and cover text */
 
 #demo {
-    height: 600px;
+    height: 100%;
     width: 100%;
 
     overflow: hidden;
@@ -92,10 +92,15 @@ h1{
 }
 
 #demo-image {
-    height: 100%;
+    height: 600px;
     width: 100%;
-    background: url('../image/hyrcan-cover-2.jpg') no-repeat center center;
+   
+    background: url('../image/hyrcan-cover-3.jpg') no-repeat center center;
+    background-size: 100% 100%;
+   
 }
+
+
 
 #demo-cover-text{
     font-size: 130%;
