@@ -95,8 +95,8 @@ h1{
     height: 600px;
     width: 100%;
    
-    background: url('../image/hyrcan-cover-3.jpg') no-repeat center center;
-    background-size: 100% 100%;
+    background: url('../image/hyrcan-cover-2.jpg') no-repeat center center;
+    background-size: 100%;
    
 }
 
@@ -129,6 +129,7 @@ h1{
     text-align: center;
     font-size: 3em;
     color:#3a3a3a ;
+    padding-top: 50px;
 
 }
 
@@ -136,6 +137,7 @@ h1{
 #featurs{
     height: 100px;
 }
+
 .featur-explained{
     width: 100%;
     padding-top: 30px;
@@ -149,20 +151,20 @@ h1{
  }
 
 .featur-circle{
-
     width: 300px;
     height: 300px;
     padding: 20px;
     /* flex-basis: 100px; */
     overflow: hidden;
-display: inline-block;
-
+    display: inline-block;
  }
-#featur-circle > p{
+
+/* #featur-circle > h3{
      font-size: 130%;
      font-weight: 200;
      text-align: center;
- }
+     color: lawngreen;
+ } */
 
 #cover-image-right{
     background:url('../image/feature-fall-2.jpg')no-repeat center center;
@@ -190,8 +192,7 @@ display: inline-block;
 
 /*   section 2 */ 
 #explanation{
-    width:100%;
-    
+    width:100%;  
     /* padding: 1 rem 0; */
     margin-bottom: 100px;
     height: 400px;
