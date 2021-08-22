@@ -162,10 +162,8 @@ h1{
     width: 300px;
     height: 300px;
     padding: 40px;
-    /* flex-basis: 100px; */
     overflow: hidden;
     display: inline-block;
-    /* margin-bottom: 200px; */
  }
 
 /* #featur-circle > h3{
@@ -252,12 +250,17 @@ border: none;
 /*/ media queries for larger and medium screen sizes  1200 and down   /*/
 
 @media screen and (max-width:1200px ) {
-    /* #featurs{
+    #featurs{
         width: 65%;
-
+        height: 1200px;
+        margin: 0 auto;
     }
-    .featur-explained{
-        width: 65%;
-    } */
-    
+    #titr-featurs{
+        padding:30px 0 ;
+    }
+
+    .featur-circle{
+        width: 100%;
+    }
+  
 }
