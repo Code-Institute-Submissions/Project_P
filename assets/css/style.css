@@ -127,6 +127,13 @@ h1{
     position: absolute;
 }
 
+
+
+
+
+
+
+
 /* Features */
 
 #titr-featurs{
@@ -137,12 +144,11 @@ h1{
 
 }
 
-
 #featurs{
-    height: 800px;
+    height:600px;
     /* position: relative; */
-    display: inline-block;
-    overflow: hidden;
+    /* display: inline-block;
+    overflow: hidden; */
 }
 
 /* .featur-explained{
@@ -162,12 +168,12 @@ h1{
     display: inline-block;
  } */
 
- .circle-container {
+ /* .circle-container {
     width: 300px;
     height: 300px;
     padding: 30px;
     margin: 0 auto;
-}
+} */
 
  #featur-circle-left{
     padding-top: 30px;
@@ -216,6 +222,14 @@ h1{
 /* .inner{
     display: inline-block;
 } */
+
+
+
+
+
+
+
+
 
 
 /*   section 2 */ 
