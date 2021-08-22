@@ -139,14 +139,14 @@ h1{
 
 
 #featurs{
-    height: 100px;
+    height: 600px;
 }
 
 .featur-explained{
     width: 100%;
     padding-top: 30px;
     margin: 0 auto;
-    height: 600px;
+    /* height: 600px; */
     /*float: right;*/
     /* justify-content: center ; */
     /* display: flex; */
@@ -206,6 +206,7 @@ h1{
     margin-bottom: 10px;
     height: 400px;
     background:url('../image/hyrc-fire.jpg') no-repeat center fixed;
+    background-size :100% ;
 }
 .explanation-text{
     padding-top:  50px;;
@@ -213,7 +214,7 @@ h1{
     text-align: center;
     color: white;
     font-size: 150%;
-    margin: 30%;
+    margin: 30px;
 }
 
 #map-frame{
@@ -234,17 +235,29 @@ border: none;
     width: 100%;
   
 
-    overflow: hidden;
+    /* overflow: hidden; */
     position: relative;
 }
+
+
 #motto>h2
 {
     text-align: center;
-    /* padding-left: 100px;
-    padding-right: 100px; */
+   
     padding: 100px 100px 20px 100px;
 }
 
 /*sign up page */ 
 
-/*/////////////////////////////// padding to allow for fixed footer /////////////////////////////////////////////////////////*/
+/*/ media queries for larger and medium screen sizes  1200 and down   /*/
+
+@media screen and (max-width:1200px ) {
+    /* #featurs{
+        width: 65%;
+
+    }
+    .featur-explained{
+        width: 65%;
+    } */
+    
+}
