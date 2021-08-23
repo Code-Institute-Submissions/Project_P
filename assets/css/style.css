@@ -110,7 +110,7 @@ h1{
     letter-spacing: 3px;
 
     text-align: center;
-    width: 300px;
+    width: 250px;
     height: 200px;
 
     padding-top: 40px;
@@ -228,6 +228,7 @@ h1{
     background:url('../image/feature-fall-2.jpg')no-repeat center center;
     border-radius: 50%;
     height: 100%;
+    background-size: 100%;
 }
 
 
@@ -235,12 +236,16 @@ h1{
     background:url('../image/feature-deer-2.jpg')no-repeat center center;
     border-radius: 50%;
     height: 100%;
+    background-size: 100%;
+
 }
 
 #cover-image-left{
     background:url('../image/cascade-2.jpg')no-repeat center center;
     border-radius: 50%;
     height: 100%;
+    background-size: 100%;
+
 }
 
 /* .inner{
@@ -258,6 +263,7 @@ h1{
 
 /*   section 2 */ 
 #explanation{
+    height: 450px;
     width:100%;  
     /* padding: 1 rem 0; */
     margin-bottom: 10px;
@@ -272,6 +278,7 @@ h1{
     color: white;
     font-size: 150%;
     margin: 30px;
+    position: absolute;
 }
 
 #map-frame{
@@ -296,7 +303,10 @@ border: none;
     position: relative;
 }
 
+.explanation-text{
 
+
+}
 #motto>h2
 {
     text-align: center;
@@ -304,14 +314,20 @@ border: none;
     padding: 100px 100px 20px 100px;
 }
 
-/*sign up page */ 
+
+
+
+
+
+
+
+
 
 /*/ media queries for larger and medium screen sizes  1200 and down   /*/
 
 @media screen and (max-width:1200px ) {
     #featurs{
-        width: 65%;
-        height: 1200px;
+        height: 900px;
         margin: 0 auto;
     }
     #titr-featurs{
@@ -319,13 +335,30 @@ border: none;
         margin: 0;
     }
 
-    .featur-circle{
+
+    /* .featur-circle{
         width: 100%;
         float: left;
         padding: 0;
-    }
+    } */
  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* /////////////////////////////////////////////////////////////////////////// */
+
  @media screen and (max-width:950px) {
     #menu{
        clear: left;
@@ -338,17 +371,76 @@ border: none;
         left: 0;
     }
   #featurs{
-      width: 90px;
-      height: 1200px;
+      height: 900px;
       margin: 0 auto;
   }
   .featur-circle h3{
-      width: inherit;
+      /* width: inherit; */
       text-align: center;
       
+      
   } 
-  .featur-circle{
+  /* .featur-circle{
       padding: o 20px;
       text-align: center;
-  }
+  } */
+
+    #motto>h2{
+      width: inherit;
+      padding: 10px 10px 10px 10px;
+      font-size: inherit;
+    }
+    #motto{
+        width: inherit;
+        clear: both;
+}
+
+
+
+
+@media screen and (max-width:650px) {
+
+
+
+    #explanation{
+        z-index: 3;
+        }
+    .explanation-text{
+         z-index: 2;
+        }
+    *{
+         z-index: 1;
+        }
+}
+
+
+
+#demo-cover-text{
+    font-size: 2em;
+}
+#featurs{
+  height: 1250px;
+  margin: 0 auto;
+}
+.featur-circle h3{
+  /* width: inherit; */
+  text-align: center;
+  
+  
+} 
+/* .featur-circle{
+  padding: o 20px;
+  text-align: center;
+} */
+
+#motto>h2{
+  width: inherit;
+  padding: 10px 10px 10px 10px;
+  font-size: inherit;
+}
+#motto{
+    width: inherit;
+    clear: both;
+}
+
 }
