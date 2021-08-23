@@ -433,14 +433,14 @@ border: none;
   text-align: center;
 } */
 
-#motto>h2{
-  width: inherit;
-  padding: 10px 10px 10px 10px;
-  font-size: inherit;
+#demo{
+    height: 400px;
+
 }
-#motto{
-    width: inherit;
-    clear: both;
-}
+/* #demo-cover-text>h1{
+font-size: 1vh;
+
+} */
+
 
 }
