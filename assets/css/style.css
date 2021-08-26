@@ -444,3 +444,20 @@ font-size: 1vh;
 
 
 }
+
+
+
+
+/* Gallery */
+
+
+#photos{
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+
+}
+
+#photo > img{
+width: 100%;
+}
