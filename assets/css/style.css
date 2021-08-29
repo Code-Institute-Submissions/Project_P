@@ -12,20 +12,19 @@ body{
     font-family: lato,sans-serif;
     font-weight: 300;
     color: #3a3a3a;
-   background-color:  whitesmoke;
-}
+    background-color:  whitesmoke;
+    }
 
 /* header{
     background-color: black;
 } */
 h1{
 font-family: 'Times New Roman', Times, serif;
-}
-
-h1{
-    font-size: 3rem;
+font-size: 3rem;
     margin: 0;
 }
+
+    
 /*  */
 
 #menu {
@@ -206,9 +205,9 @@ h1{
  
 #titr-featurs{
     text-align: center;
-    font-size: 3em;
+    font-size: 280%;
     color:#3a3a3a ;
-    padding-top: 50px;
+   margin: 20px;
 
 }
 
@@ -324,13 +323,15 @@ border: none;
 
 @media screen and (max-width:1200px ) {
     #featurs{
-        height: 900px;
+        width: 65%;
+        height: 1300px;
         margin: 0 auto;
     }
     #titr-featurs{
         padding:30px 0 ;
         margin: 0;
     }
+
 
 
     /* .featur-circle{
@@ -368,7 +369,8 @@ border: none;
         left: 0;
     }
   #featurs{
-      height: 900px;
+      clear: both;
+      height: 1200px;
       margin: 0 auto;
   }
   .featur-circle h3{
