@@ -445,17 +445,20 @@ input[type=submit]:hover {
       text-align: center;
       
   } 
+  #explanation{
+  font-size: inherit;
+  }
 
 #photos{
     column-count: 2;
     }
 
-    #motto>h2{
+#motto>h2{
       width: inherit;
       padding: 10px 10px 10px 10px;
       font-size: inherit;
     }
-    #motto{
+ #motto{
         width: inherit;
         clear: both;
 }
@@ -480,7 +483,6 @@ input[type=submit]:hover {
 
 }
 
-
 #photo-text>h1{
     font-size: 15px ;
     margin-top: 30px;
@@ -504,19 +506,16 @@ input[type=submit]:hover {
         margin: 0;
     }
 
-
-    /* .featur-circle{
-        width: 100%;
-        float: left;
-        padding: 0;
-    } */
-
-
     #photo-text>h1{
         font-size: 30px ;
         margin-top: 40px;
         padding: 30px;
     }
+    #explanation{
+        font-size: inherit;
+        }
+      
+
  }
 
 /*////////////////////////////////////////////////////////*/
