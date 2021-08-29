@@ -80,7 +80,7 @@ font-size: 3rem;
 /* the demo image and the small text for that */
 
 #demo {
-    height: 100%;
+    height: 600px;
     width: 100%;
 
     overflow: hidden;
@@ -89,6 +89,7 @@ font-size: 3rem;
 
 #demo-cover-text, #demo-cover-text h2 {
     color: #fff;
+    font-size: 250px;
 }
 
 #demo-image {
@@ -109,7 +110,7 @@ font-size: 3rem;
     letter-spacing: 3px;
 
     text-align: center;
-    width: 250px;
+    width: 300px;
     height: 200px;
 
     padding-top: 40px;
@@ -214,7 +215,7 @@ font-size: 3rem;
 #featurs{
     height:600px;
     text-align: center;
-}
+  }
 
 .featur-circle{
     width: 300px;
@@ -311,141 +312,7 @@ border: none;
 }
 
 
-
-
-
-
-
-
-
-
-/*/ media queries for larger and medium screen sizes  1200 and down   /*/
-
-@media screen and (max-width:1200px ) {
-    #featurs{
-        width: 65%;
-        height: 1300px;
-        margin: 0 auto;
-    }
-    #titr-featurs{
-        padding:30px 0 ;
-        margin: 0;
-    }
-
-
-
-    /* .featur-circle{
-        width: 100%;
-        float: left;
-        padding: 0;
-    } */
- }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* /////////////////////////////////////////////////////////////////////////// */
-
- @media screen and (max-width:950px) {
-    #menu{
-       clear: left;
-       float: left;
-       margin-left: 30px;
-       margin-bottom: 25px;
-       line-height: 25px;
-    }
-    #demo-cover-text{
-        left: 0;
-    }
-  #featurs{
-      clear: both;
-      height: 1200px;
-      margin: 0 auto;
-  }
-  .featur-circle h3{
-      /* width: inherit; */
-      text-align: center;
-      
-      
-  } 
-  /* .featur-circle{
-      padding: o 20px;
-      text-align: center;
-  } */
-
-    #motto>h2{
-      width: inherit;
-      padding: 10px 10px 10px 10px;
-      font-size: inherit;
-    }
-    #motto{
-        width: inherit;
-        clear: both;
-}
-
-
-
-
-@media screen and (max-width:650px) {
-
-
-
-    #explanation{
-        z-index: 3;
-        }
-    .explanation-text{
-         z-index: 2;
-        }
-    *{
-         z-index: 1;
-        }
-}
-
-
-
-#demo-cover-text{
-    font-size: 2em;
-}
-#featurs{
-  height: 1250px;
-  margin: 0 auto;
-}
-.featur-circle h3{
-  /* width: inherit; */
-  text-align: center;
-  
-  
-} 
-/* .featur-circle{
-  padding: o 20px;
-  text-align: center;
-} */
-
-#demo{
-    height: 400px;
-
-}
-/* #demo-cover-text>h1{
-font-size: 1vh;
-
-} */
-
-
-}
-
-
-
 
 /* Gallery */
 
@@ -485,7 +352,7 @@ width: 100%;
     position: absoluter;
     text-align: center;
     text-transform: uppercase;
-    background-color: #3a3a3a;
+    background-color: #686868;
 
     }
 
@@ -500,6 +367,30 @@ width: 100%;
 
 /*//////////////////////////  Sign Up   //////////////////////////////*/
 
+fieldset {
+    border-radius: 5px;
+    /* background-color: #f2f2f2; */
+    padding: 20px;
+    
+  }
+  .participate{
+  text-align: center;
+  clear: both;
+  width: 100%;
+  }
+  
+  #form-section{
+    text-align: center;
+    clear: left;
+    /* background: url("../image/signup.jpg"); */
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+  }
+
+
+
+
 input[type=text], select ,input[type=email]{
   width: 100%;
   padding: 12px 20px;
@@ -512,8 +403,8 @@ input[type=text], select ,input[type=email]{
 
 input[type=submit],input[type=reset] {
   width: 120px;
-  background-color: #3a3a3a;
-  color: white;
+  background-color: #727272;
+  /* color: white; */
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
@@ -526,18 +417,109 @@ input[type=submit]:hover {
   background-color: #666666;
 }
 
-fieldset {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-  
-}
-.participate{
-text-align: center;
-clear: both;
-width: 100%;
+
+
+
+
+/*/////////////////////////////////////////////////////////////////////*/
+
+
+@media screen and (max-width:950px) {
+    #menu{
+       clear: left;
+       float: left;
+       margin-left: 30px;
+       margin-bottom: 25px;
+       line-height: 25px;
+    }
+    #demo-cover-text{
+        left: 0;
+    }
+  #featurs{
+      clear: both;
+      height: 1200px;
+      margin: 0 auto;
+  }
+  .featur-circle h3{
+      /* width: inherit; */
+      text-align: center;
+      
+  } 
+
+#photos{
+    column-count: 2;
+    }
+
+    #motto>h2{
+      width: inherit;
+      padding: 10px 10px 10px 10px;
+      font-size: inherit;
+    }
+    #motto{
+        width: inherit;
+        clear: both;
 }
 
-#form-section{
-text-align: center;
+
+#demo-cover-text{
+    font-size: 2em;
 }
+#featurs{
+  height: 1250px;
+  margin: 0 auto;
+}
+.featur-circle h3{
+  /* width: inherit; */
+  text-align: center;
+  
+  
+} 
+
+#demo{
+    height: 400px;
+
+}
+
+
+#photo-text>h1{
+    font-size: 15px ;
+    margin-top: 30px;
+    padding: 30px;
+}
+
+}
+
+
+/*/ media queries for larger and medium screen sizes  1200 and down   /*/
+
+@media screen and (max-width:1200px ) {
+    #featurs{
+        width: 65%;
+        height: 1300px;
+        margin: 0 auto;
+        
+    }
+    #titr-featurs{
+        padding:30px 0 ;
+        margin: 0;
+    }
+
+
+    /* .featur-circle{
+        width: 100%;
+        float: left;
+        padding: 0;
+    } */
+
+
+    #photo-text>h1{
+        font-size: 30px ;
+        margin-top: 40px;
+        padding: 30px;
+    }
+ }
+
+/*////////////////////////////////////////////////////////*/
+
+
+
