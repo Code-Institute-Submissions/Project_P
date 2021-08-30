@@ -8,29 +8,29 @@
 
 }
 
-body{
-    font-family: lato,sans-serif;
+body {
+    font-family: lato, sans-serif;
     font-weight: 300;
     color: #3a3a3a;
-    background-color:  whitesmoke;
-    }
+    background-color: whitesmoke;
+}
 
 /* header{
     background-color: black;
 } */
-h1{
-font-family: 'Times New Roman', Times, serif;
-font-size: 3rem;
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
     margin: 0;
 }
 
-    
+
 /*  */
 
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
-   /* display: block;*/
+    /* display: block;*/
 }
 
 #menu a {
@@ -48,10 +48,12 @@ font-size: 3rem;
 }
 
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 75px;
 }
-#logo{
+
+#logo {
     float: left;
     margin-left: 30px;
     font-size: 280%;
@@ -62,8 +64,9 @@ font-size: 3rem;
     float: right;
     list-style-type: none;
     margin-right: 30px;
-    
+
 }
+
 #menu a {
     text-decoration: none;
     color: inherit;
@@ -87,7 +90,8 @@ font-size: 3rem;
     position: relative;
 }
 
-#demo-cover-text, #demo-cover-text h2 {
+#demo-cover-text,
+#demo-cover-text h2 {
     color: #fff;
     font-size: 250px;
 }
@@ -95,17 +99,17 @@ font-size: 3rem;
 #demo-image {
     height: 600px;
     width: 100%;
-   
+
     background: url('../image/hyrcan-cover-2.jpg') no-repeat center center;
     background-size: 100%;
-   
+
 }
 
 
 
-#demo-cover-text{
+#demo-cover-text {
     font-size: 130%;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     text-transform: uppercase;
     letter-spacing: 3px;
 
@@ -151,7 +155,7 @@ font-size: 3rem;
     display: inline-block;
  } */
 
- /* .circle-container {
+/* .circle-container {
     width: 300px;
     height: 300px;
     padding: 30px;
@@ -191,7 +195,7 @@ font-size: 3rem;
  } */
 
 
- /* .featur-circle {
+/* .featur-circle {
     float: left;
     width: 33.33%;
     padding: 5px;
@@ -203,45 +207,46 @@ font-size: 3rem;
   }
    */
 
- 
-#titr-featurs{
+
+#titr-featurs {
     text-align: center;
     font-size: 280%;
-    color:#3a3a3a ;
-   margin: 20px;
+    color: #3a3a3a;
+    margin: 20px;
 
 }
 
-#featurs{
-    height:600px;
+#featurs {
+    height: 600px;
     text-align: center;
-  }
+}
 
-.featur-circle{
+.featur-circle {
     width: 300px;
     height: 300px;
     padding: 40px;
     overflow: hidden;
     display: inline-block;
- } 
-#cover-image-right{
-    background:url('../image/feature-fall-2.jpg')no-repeat center center;
+}
+
+#cover-image-right {
+    background: url('../image/feature-fall-2.jpg')no-repeat center center;
     border-radius: 50%;
     height: 100%;
     background-size: 100%;
 }
 
 
-#cover-image-center{
-    background:url('../image/feature-deer-2.jpg')no-repeat center center;
+#cover-image-center {
+    background: url('../image/feature-deer-2.jpg')no-repeat center center;
     border-radius: 50%;
     height: 100%;
     background-size: 100%;
 
 }
 
-#cover-image-left{
-    background:url('../image/cascade-2.jpg')no-repeat center center;
+#cover-image-left {
+    background: url('../image/cascade-2.jpg')no-repeat center center;
     border-radius: 50%;
     height: 100%;
     background-size: 100%;
@@ -261,19 +266,21 @@ font-size: 3rem;
 
 
 
-/*   section 2 */ 
-#explanation{
+/*   section 2 */
+#explanation {
     height: 450px;
-    width:100%;  
+    width: 100%;
     /* padding: 1 rem 0; */
     margin-bottom: 10px;
     height: 400px;
-    background:url('../image/hyrc-fire.jpg') no-repeat center fixed;
-    background-size :100% ;
+    background: url('../image/hyrc-fire.jpg') no-repeat center fixed;
+    background-size: 100%;
 }
-.explanation-text{
-    padding-top:  50px;;
-    
+
+.explanation-text {
+    padding-top: 50px;
+    ;
+
     text-align: center;
     color: white;
     font-size: 150%;
@@ -281,33 +288,32 @@ font-size: 3rem;
     position: absolute;
 }
 
-#map-frame{
-height: 300px;
-margin-bottom: 107px;
+#map-frame {
+    height: 300px;
+    margin-bottom: 107px;
 
 }
 
-#map{
-width: 100%;
-height: 100%;
-border: none;
+#map {
+    width: 100%;
+    height: 100%;
+    border: none;
 }
 
 
-#motto { 
+#motto {
     height: 350px;
     width: 100%;
-  
+
 
     /* overflow: hidden; */
     position: relative;
 }
 
 
-#motto>h2
-{
+#motto>h2 {
     text-align: center;
-   
+
     padding: 100px 100px 20px 100px;
 }
 
@@ -317,18 +323,19 @@ border: none;
 /* Gallery */
 
 
-#photos{
+#photos {
     clear: both;
     line-height: 0;
-    column-count:3;
+    column-count: 3;
     column-gap: 0;
 
 }
 
-#photos > img{
-width: 100%;
+#photos>img {
+    width: 100%;
 }
-#mid-photos{
+
+#mid-photos {
 
     width: 100%;
     height: 200;
@@ -336,6 +343,7 @@ width: 100%;
     position: relative;
 
 }
+
 /* #mid-photos>h1{
     color: #3a3a3a;
     margin-top: 50px;
@@ -346,7 +354,7 @@ width: 100%;
 } */
 
 
-#photo-text{
+#photo-text {
     width: 100%;
     height: 300px;
     position: absoluter;
@@ -354,16 +362,16 @@ width: 100%;
     text-transform: uppercase;
     background-color: #686868;
 
-    }
+}
 
-    #photo-text>h1{
-        font-size: 40px ;
-        margin-top: 50px;
-        padding: 50px;
-        /* text-transform: uppercase; */
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-        color: #fff;
-    }
+#photo-text>h1 {
+    font-size: 40px;
+    margin-top: 50px;
+    padding: 50px;
+    /* text-transform: uppercase; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+}
 
 /*//////////////////////////  Sign Up   //////////////////////////////*/
 
@@ -371,50 +379,54 @@ fieldset {
     border-radius: 5px;
     /* background-color: #f2f2f2; */
     padding: 20px;
-    
-  }
-  .participate{
-  text-align: center;
-  clear: both;
-  width: 100%;
-  }
-  
-  #form-section{
+
+}
+
+.participate {
+    text-align: center;
+    clear: both;
+    width: 100%;
+}
+
+#form-section {
     text-align: center;
     clear: left;
     /* background: url("../image/signup.jpg"); */
     background-size: cover;
     background-position: center;
     height: 900px;
-  }
-
-
-
-
-input[type=text], select ,input[type=email]{
-  width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
 }
 
-input[type=submit],input[type=reset] {
-  width: 120px;
-  background-color: #727272;
-  /* color: white; */
-  padding: 14px 20px;
-  margin: 8px 0;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  text-align: center;
+
+
+
+input[type=text],
+select,
+input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit],
+input[type=reset] {
+    width: 120px;
+    background-color: #727272;
+    /* color: white; */
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
 }
 
 input[type=submit]:hover {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 
@@ -425,118 +437,143 @@ input[type=submit]:hover {
 
 
 @media screen and (max-width:950px) {
-    #menu{
-       clear: left;
-       float: left;
-       margin-left: 30px;
-       margin-bottom: 25px;
-       line-height: 25px;
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 25px;
+        line-height: 25px;
     }
-    #demo-cover-text{
+
+    #demo-cover-text {
         left: 0;
     }
-  #featurs{
-      clear: both;
-      height: 1200px;
-      margin: 0 auto;
-  }
-  .featur-circle h3{
-      /* width: inherit; */
-      text-align: center;
-      
-  } 
-  #explanation{
-  font-size: inherit;
-  }
 
-#photos{
-    column-count: 2;
+    #featurs {
+        clear: both;
+        height: 1200px;
+        margin: 0 auto;
     }
 
-#motto>h2{
-      width: inherit;
-      padding: 10px 10px 10px 10px;
-      font-size: inherit;
+    .featur-circle h3 {
+        /* width: inherit; */
+        text-align: center;
+
     }
- #motto{
+
+    #explanation {
+        font-size: inherit;
+    }
+
+    #photos {
+        column-count: 2;
+    }
+
+    #motto>h2 {
+        width: inherit;
+        padding: 10px 10px 10px 10px;
+        font-size: inherit;
+    }
+
+    #motto {
         width: inherit;
         clear: both;
-}
+    }
 
 
-#demo-cover-text{
-    font-size: 2em;
-}
-#featurs{
-  height: 1250px;
-  margin: 0 auto;
-}
-.featur-circle h3{
-  /* width: inherit; */
-  text-align: center;
-  
-  
-} 
+    #demo-cover-text {
+        font-size: 2em;
+    }
 
-#demo{
-    height: 400px;
+    #featurs {
+        height: 1250px;
+        margin: 0 auto;
+    }
 
-}
+    .featur-circle h3 {
+        /* width: inherit; */
+        text-align: center;
 
-#photo-text>h1{
-    font-size: 15px ;
-    margin-top: 30px;
-    padding: 30px;
-}
+
+    }
+
+    #demo {
+        height: 400px;
+
+    }
+
+    #photo-text>h1 {
+        font-size: 15px;
+        margin-top: 30px;
+        padding: 30px;
+    }
 
 }
 
 
 /*/ media queries for larger and medium screen sizes  1200 and down   /*/
 
-@media screen and (max-width:1200px ) {
-    #featurs{
+@media screen and (max-width:1200px) {
+    #featurs {
         width: 65%;
         height: 1300px;
         margin: 0 auto;
-        
+
     }
-    #titr-featurs{
-        padding:30px 0 ;
+
+    #titr-featurs {
+        padding: 30px 0;
         margin: 0;
     }
 
-    #photo-text>h1{
-        font-size: 30px ;
+    #photo-text>h1 {
+        font-size: 30px;
         margin-top: 40px;
         padding: 30px;
     }
-    #explanation{
-        font-size: inherit;
-        }
-      
 
- }
+    #explanation {
+        font-size: inherit;
+    }
+
+
+}
 
 /*/////////////////////         Footer        /////////////////////////////*/
 
-footer{
+footer {
 
-    height: 80px;
+    height: 100px;
 
 }
 
-.social-network{
+.social-network {
     text-align: center;
 }
 
-.social-network li{
+.social-network li {
     display: inline;
 }
 
-.social-network i{
-font-size: 160%;
-margin: 1%;
-padding: 5%;
-color: #3a3a3a;
+.social-network i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
+
+.facebook i:hover {
+    color: blue;
+}
+
+.youtube i:hover {
+    color: red;
+}
+
+.instagram i:hover {
+    color: rgb(190, 6, 6);
+}
+
+.twitter i:hover {
+    color: rgb(30, 185, 247);
 }
