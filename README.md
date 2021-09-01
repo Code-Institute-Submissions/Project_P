@@ -1,7 +1,7 @@
 # Project_P
 <h1 align="center">Save Hyrcania</h1>
 
-[View the live project here.](https://codeinstitute.net)
+[View the live project here.](https://mehrdat.github.io/Project_P/)
 
 This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
 
