@@ -3,7 +3,7 @@
 
 [View the live project here.](https://mehrdat.github.io/Project_P/)
 
-This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
+This website is for a group of people who desired to make the situation better in Northof Iran for the Hyecanian Forest which is going to be extincted in the NEAR FUTURE. 
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
