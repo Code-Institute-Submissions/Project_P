@@ -17,10 +17,7 @@ This website is for a group of people who desired to make the situation better i
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
     -   #### Returning Visitor Goals
-
-        1. As a Returning Visitor, I want to find information about coding challenges.
-        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-        3. As a Returning Visitor, I want to find community links.
+        1. As a Returning Visitor, I want to find community links.
 
     -   #### Frequent User Goals
         1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
