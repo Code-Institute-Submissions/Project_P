@@ -83,7 +83,7 @@ h1 {
 /* the demo image and the small text for that */
 
 #demo {
-    height: 600px;
+    height: 400px;
     width: 100%;
 
     overflow: hidden;
@@ -127,13 +127,6 @@ h1 {
 
     position: absolute;
 }
-
-
-
-
-
-
-
 
 /* Features */
 
@@ -207,7 +200,6 @@ h1 {
   }
    */
 
-
 #titr-featurs {
     text-align: center;
     font-size: 280%;
@@ -250,20 +242,11 @@ h1 {
     border-radius: 50%;
     height: 100%;
     background-size: 100%;
-
 }
 
 /* .inner{
     display: inline-block;
 } */
-
-
-
-
-
-
-
-
 
 
 /*   section 2 */
@@ -279,8 +262,6 @@ h1 {
 
 .explanation-text {
     padding-top: 50px;
-    ;
-
     text-align: center;
     color: white;
     font-size: 150%;
