@@ -36,9 +36,9 @@ This website is for a group of people who desired to make the situation better i
 
     -   Home Page Wireframe - [View](https://github.com/mehrdat/Project_P/main/assets/image/wireframes/frame1.png)
 
-    -   Mobile Wireframe - [View](https://github.com/mehrdat/Project_P/main/assets/image/wireframes/frame2.png)
+    -   Gallery Wireframe - [View](https://github.com/mehrdat/Project_P/main/assets/image/wireframes/frame2.png)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/mehrdat/Project_P/main/assets/image/wireframes/frame3.png)
+    -   Contact Us(Participate) Page Wireframe - [View](https://github.com/mehrdat/Project_P/main/assets/image/wireframes/frame3.png)
 
 ## Features
 
@@ -55,16 +55,13 @@ This website is for a group of people who desired to make the situation better i
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-    - Bootstrap was used to assist with the responsiveness and styling of the website.
+
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
     - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 1. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [jQuery:](https://jquery.com/)
-    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
