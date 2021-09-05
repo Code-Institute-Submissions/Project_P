@@ -34,11 +34,11 @@ This website is for a group of people who desired to make the situation better i
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
+    -   Home Page Wireframe - [View](https://github.com/mehrdat/Project_P/tree/main/assets/image/wireframes/frame1)
 
-    -   Mobile Wireframe - [View](https://github.com/)
+    -   Mobile Wireframe - [View](https://github.com/mehrdat/Project_P/tree/main/assets/image/wireframes/frame2)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+    -   Contact Us Page Wireframe - [View](https://github.com/mehrdat/Project_P/tree/main/assets/image/wireframes/frame3)
 
 ## Features
 
