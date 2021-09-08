@@ -71,7 +71,7 @@ This website is for a group of people who desire to make the situation better in
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-coral-swan-7051esyh.ws-eu16.gitpod.io%2Findex.html)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmehrdat.github.io%2FProject_P%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fa)
 
 ### Testing User Stories from User Experience (UX) Section
