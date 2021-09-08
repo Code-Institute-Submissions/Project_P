@@ -171,7 +171,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Media
 
--   All Images were created by the developer.
+-   All Images were gathered by the developer. Mostly from Activists and NGO's websites.
 
 ### Acknowledgements
 
