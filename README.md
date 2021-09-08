@@ -44,8 +44,6 @@ This website is for a group of people who desire to make the situation better in
 
 -   Responsive on all device sizes
 
--   Interactive elements
-
 ## Technologies Used
 
 ### Languages Used
@@ -61,12 +59,10 @@ This website is for a group of people who desire to make the situation better in
 1. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [Git](https://git-scm.com/)
-    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+    - Font Awesome was used on all pages throughout the website to add icons for Footer icons.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html) 
+1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html) [View](https://github.com/mehrdat/Project_P/blob/main/assets/image/doc/photoshop.png)
     - Photoshop was used to create the logo, resizing images and editing photos for the website.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
