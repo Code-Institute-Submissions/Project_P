@@ -3,7 +3,7 @@
 
 [View the live project here.](https://mehrdat.github.io/Project_P/)
 
-This website is for a group of people who desired to make the situation better in Northof Iran for the Hyecanian Forest which is going to be extincted in the NEAR FUTURE. 
+This website is for a group of people who desire to make the situation better in North of Iran for the Hyecanian Forest which is going to be extincted in the NEAR FUTURE. 
 
 <h2 align="center"><img src="https://i.ibb.co/k1FNXpC/Responsive.png"></h2>
 
@@ -34,11 +34,11 @@ This website is for a group of people who desired to make the situation better i
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/mehrdat/Project_P/main/assets/image/wireframes/frame1.png)
+    -   Home Page Wireframe - [View](https://github.com/mehrdat/Project_P/blob/main/assets/image/wireframes/Frame1.png)
 
-    -   Gallery Wireframe - [View](https://github.com/mehrdat/Project_P/main/assets/image/wireframes/frame2.png)
+    -   Gallery Wireframe - [View](https://github.com/mehrdat/Project_P/blob/main/assets/image/wireframes/Frame2.png)
 
-    -   Contact Us(Participate) Page Wireframe - [View](https://github.com/mehrdat/Project_P/main/assets/image/wireframes/frame3.png)
+    -   Contact Us(Participate) Page Wireframe - [View](https://github.com/mehrdat/Project_P/blob/main/assets/image/wireframes/Frame2.png)
 
 ## Features
 
@@ -66,7 +66,7 @@ This website is for a group of people who desired to make the situation better i
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
+1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html) 
     - Photoshop was used to create the logo, resizing images and editing photos for the website.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
