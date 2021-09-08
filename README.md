@@ -64,7 +64,7 @@ This website is for a group of people who desire to make the situation better in
     - GitHub is used to store the projects code after being pushed from Git.
 1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html) [View](https://github.com/mehrdat/Project_P/blob/main/assets/image/doc/photoshop.png)
     - Photoshop was used to create the logo, resizing images and editing photos for the website.
-1. [Balsamiq:](https://balsamiq.com/)
+1. [Balsamiq:](https://balsamiq.com/) [View](https://github.com/mehrdat/Project_P/blob/main/assets/image/doc/balsamiq.png)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
 ## Testing
